@@ -1,0 +1,4 @@
+name,sales
+alpha,100
+beta,120
+charlie,90
